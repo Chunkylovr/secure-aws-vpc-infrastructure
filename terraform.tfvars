@@ -1,0 +1,5 @@
+aws_region = "us-east-1"
+environment = "dev"
+key_pair_name = ""
+db_password = "ChangeMe123!"
+your_ip = "YOUR_PUBLIC_IP/32"
