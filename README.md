@@ -124,8 +124,6 @@ After deployment, Terraform displays outputs like:
 - RDS endpoint
 - Security group IDs
 
-Save these — you'll need them for testing.
-
 ---
 
 ### Verification & Testing
